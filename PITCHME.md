@@ -134,3 +134,33 @@ Don't feel good with any tutorial? Go to official documentation then, [Official 
 
 ---
 
+## There are many ways to run your python code
+
++++
+
+### Interpret your code
+Code in any of your favorite *text editor*, save as `<file_name>.py`, open in terminal/command prompt : `$ python3 path/to/your/file/<file_name>.py`
+
++++
+
+### Using high rank Integrated Development Environment (IDE)
+... for full set and easy development, like [PyCharm](https://www.jetbrains.com/Python_IDE)(?)
+
++++
+
+### Code in interpreter
+Open in terminal/command prompt : `$ python3`. Then type your code after you got similar to the following output
+```
+Python 3.5.2 (default, Sep 14 2017, 22:51:06) 
+[GCC 5.4.0 20160609] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
+
++++
+
+### Or using Python IDLE
+The one I never used before (and never will, maybe) [Python IDLE](https://docs.python.org/3/library/idle.html)
+
+---
+
