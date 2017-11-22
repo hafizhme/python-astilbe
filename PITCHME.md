@@ -164,3 +164,30 @@ The one I never used before (and never will, maybe) [Python IDLE](https://docs.p
 
 ---
 
+### What's next?
+
++++
+
+If you think it is enough beeing here, you can go around and do your own exploration to some of these.
+
++++
+
+These are my reference in building this slide.
+- http://docs.python-guide.org/en/latest/ *
+- https://developers.google.com/edu/python/ *
+- https://docs.python.org/3/ *
+
++++
+
+I did these a long time ago, these are my begining of my journey in python tho.
+- https://www.codecademy.com/learn/learn-python **
+- https://learnpythonthehardway.org/ **
+
++++
+
+Yes it is rude, but going arround and peeking to some code is a good source of motivation.
+- https://github.com/topics/python
+
+---
+
+Please help me to improve this slide [on github issues](https://github.com/hafizhme/python-astilbe/issues)
