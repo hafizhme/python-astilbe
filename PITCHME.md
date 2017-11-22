@@ -56,3 +56,61 @@ Top 5 Most Popular Programming Language in 2017. [Stack Overflow Developer Surve
 
 ---
 
+Enough b\*\*llsh\*\*!! Go to [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) for more *chit-chat*
+
+---
+
+## The Language
+
++++
+
+Python is a **dynamic**, **interpreted** (bytecode-compiled) language.
+
++++
+
+There are **no type declarations** of variables, parameters, functions, or methods **in source code**.
+
++++
+
+This makes the code short and flexible, and you lose the compile-time type checking of the source code.
+
++++
+
+Python **tracks the types** of all values **at runtime** and flags code that does not make sense as it runs. 
+
++++
+
+```
+$ python
+Python 2.7.9 (default, Dec 30 2014, 03:41:42) 
+[GCC 4.1.2 20080704 (Red Hat 4.1.2-55)] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> a = 6
+>>> a
+6
+>>> a + 2
+8
+>>> a = 'hi'
+>>> a
+'hi'
+>>> a + 2
+Traceback (most recent call last):
+  File "", line 1, in 
+TypeError: cannot concatenate 'str' and 'int' objects
+>>> ^D
+```
+
+@[1-4](Run the Python interpreter)
+@[5](Set a variable in this interpreter session)
+@[6-7](Entering an expression prints its value)
+@[8-9](Another expression)
+@[10]('a' can hold a string just as well)
+@[11-12](It prints the assigned string)
+@[13](Can you do that?)
+@[14-16](Oops)
+@[17](Close the interpreter)
+
+Don't code, just look :)
+
+---
+
