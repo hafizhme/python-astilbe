@@ -114,3 +114,23 @@ Don't code, just look :)
 
 ---
 
+## Make you have installed `python 3` on your machine
+
++++
+
+### [Installing Python 3 on Mac OS X](http://docs.python-guide.org/en/latest/starting/install3/osx/#install3-osx)
+
++++
+
+### [Installing Python 3 on Windows](http://docs.python-guide.org/en/latest/starting/install3/win/#install3-windows)
+
++++
+
+### [Installing Python 3 on Linux](http://docs.python-guide.org/en/latest/starting/install3/linux/#install3-linux)
+
++++
+
+Don't feel good with any tutorial? Go to official documentation then, [Official Documenation](https://wiki.python.org/moin/BeginnersGuide/Download)
+
+---
+
