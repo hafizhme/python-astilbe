@@ -96,7 +96,7 @@ I forgot something
 @[6](You can reuse your previous variable even these are having different data type)
 @[7-8](And this is just fine)
 @[9](Try this too?)
-@[10](Oops. Now you know. `print()` will convert any value to string representation)
+@[9-10](Oops. Now you know. `print()` will convert any value to string representation)
 
 +++
 
@@ -109,6 +109,45 @@ Dynamically-typed language is (for short) a language you **don't need to define 
 +++
 
 So, I can assign numerous different value to my variable?
+
+---
+
+## Stil Data type
+
++++?code=src/still-data-type
+
+```
+@[1](This is number, but got comma on it, \(read: float type\).)
+@[2-3](Investigate!)
+@[4](Boolean data type)
+@[5-6](Investigate!)
+@[7](False)
+@[8-9](Investigate!)
+@[10](Here it is, a list with multiple value in multiple data type.)
+@[11-12](Investigate!)
+@[13-14](Remember you can do the same using `print`, in case you are not in Python Shell.)
+@[15-16](Accessing first index of `my_list` that is **zero-based** index.)
+@[17](You can change a value of your list.)
+@[18-19](Try to investigate!)
+@[20-21](Ahah! Try to figuring this one :p)
+@[22-23](And this XD)
+@[24](Please introduce, **dictionary**.)
+@[25-29](Are tired coding in a line, try this one.)
+@[30-31](Try to investigate!)
+@[32-33](Access `'aliases'` index)
+@[34-35](ooh, dive more)
+@[36](Create new index and assign new value on to it)
+@[37-38](Try to investigate!)
+@[39-44](You can assign empty list or dictionary.)
+@[39-44](But why??)
+@[45](Please introduce, **tupple**.)
+@[46-47](Just like list.)
+@[48-49](Just like list.)
+@[50-51](Just like list.)
+@[52-53](Just like list.)
+@[54-57](Opps)
+@[54-57](Just like list huh?)
+@[57](Hope you can figured something.)
 
 ---
 
