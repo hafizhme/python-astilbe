@@ -99,14 +99,14 @@ hafizhme@machine:~/Code/python-astilbe$
 
 Type these following code on your favorite text editor and save as `elif.py`.
 
-+++code=src/elif.py&lang=python
++++?code=src/elif.py&lang=python
 
 @[1-6](Again we just put a few updated on our `ifelse.py` from previous.)
 @[5](Replaced by `elif your_name == 'Smeagol':`.)
 @[3-4](Line 4 belongs to any `True` condition for **first condtion**.)
 @[5-6](Line 6 belongs to any `True` condition for **second condition**.)
 
-+++code=src/elif-run
++++?code=src/elif-run
 
 @[1-2](Try to type 'Gollum')
 @[3](Make sure the output is similar to mine.)
