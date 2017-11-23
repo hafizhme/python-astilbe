@@ -10,3 +10,5 @@ while True:
 	
 	if i == 11:
 		break
+		
+print('You got i =', i)
