@@ -1,0 +1,24 @@
+>>> my_var = 200
+>>> hex(id(my_var))
+'0xa67f20'
+>>> my_var = 214
+>>> hex(id(my_var))
+'0xa69860'
+>>> my_tupp = (1, 2, 'oops', True, 2.3)
+>>> hex(id(my_tupp))
+'0x7f7c6fcc4e60'
+>>> my_tupp[1] = 3
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: 'tuple' object does not support item assignment
+>>> my_tupp = (1, 3, 'oops', True, 2.3)
+>>> my_tupp
+(1, 3, 'oops', True, 2.3)
+>>> hex(id(my_tupp))
+'0x7f7c716ed780'
+>>> my_list = [1, 2, 'oops', True, 2.3]
+>>> hex(id(my_list[1]))
+'0xa67de0'
+>>> my_list[1] = 3
+>>> hex(id(my_list[1]))
+'0xa67e00'
