@@ -155,8 +155,8 @@ So, I can assign numerous different value to my variable?
 +++
 
 ### Mutable 
-@[1](A mutable object is that you **can assign a new value** in a variable **without creating a new one**.)
-@[2](**List** and **dictionary** are mutable data type.)
+@(A mutable object is that you **can assign a new value** in a variable **without creating a new one**.)
+@(**List** and **dictionary** are mutable data type.)
 
 +++
 
@@ -164,13 +164,14 @@ So, I can assign numerous different value to my variable?
 +++?code=src/mutable
 
 @[1](Recall our mutable object, `my_list`.)
-@[2-3](Print its address in hexadecimal.)
-@[4](Make some changes on an element.)
-@[5-6](Make sure it is worked.)
-@[7-8](Tadaaa)
-@[1-3,6-8](See the different?)
-@[1-3,6-8](The element is changed.)
-@[1-3,6-8](The address remaind the same.)
+@[2-3](Recall our mutable object, `my_list`.)
+@[4-5](Print its address in hexadecimal.)
+@[6](Make some changes on an element.)
+@[7-8](Make some changes on an element.)
+@[9-10](Tadaaa)
+@[3-5,8-10](See the different?)
+@[3-5,8-10](The element is changed.)
+@[3-5,8-10](The address remaind the same.)
 
 +++
 
