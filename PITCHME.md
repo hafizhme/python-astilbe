@@ -121,6 +121,36 @@ Type these following code on your favorite text editor and save as `elif.py`.
 
 ---
 
+### Nested If
+
++++
+
+You don't seem to be newbie, why don't give you a simple task? hmmm.
+
++++
+
+Remember this old days when you are asked to create a **grading program** using `pascal`?
+Range | Grade
+---|---
+`[90,100]` | A
+`[80,90)` | AB
+`[70,80)` | B
+`[60,70)` | BC
+`[50,60)` | C
+`[40,50)` | CD
+`[30,40)` | D
+`[20,30)` | DE
+`[0,20)` | E
+You can finish this problem using `elif`, try to use `nested if` instead.
+
+---
+
+@[](There are much more magic you don't know about decision making in Python.)
+@[](This slide is not a slide instead intend to make you expert.)
+@[](Expert learn by doing, by experiencing.)
+
+---
+
 Please help me to improve this slide [on github issues](https://github.com/hafizhme/python-astilbe/issues)
 
 `github.com/hafizhme/python-astilbe`
