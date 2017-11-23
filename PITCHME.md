@@ -55,6 +55,44 @@ We wants it, we needs it. Must have the precious. . . .
 
 ---
 
+### If Else
+
++++
+
+Type these following code on your favorite text editor and save as `ifelse.py`.
+
++++?code=src/ifelse.py&lang=python
+
+[1,6](We just put a few updated on our `if.py` from previous.)
+[5](Put `else:` on it without indentation.)
+[6](Indent this line with a single tab.)
+[3-4](Line 4 belongs to any `True` condition.)
+[5-6](Line 6 belongs to any `False` condition.)
+
++++
+
+```
+hafizhme@machine:~/Code/python-astilbe$ python3 ifelse.py
+What is your name? Gollum
+MY PRECIOUS!!!
+hafizhme@machine:~/Code/python-astilbe$ 
+hafizhme@machine:~/Code/python-astilbe$ python3 ifelse.py
+What is your name? Smeagol
+We wants it, we needs it. Must have the precious. They stole it from us. Sneaky little hobbitses. Wicked, tricksy, false!
+hafizhme@machine:~/Code/python-astilbe$ 
+```
+
+@[1-2](Try to type 'Gollum')
+@[3](Make sure the output is similar to mine.)
+@[3](This line printed because the condition is `True`.)
+@[1-4](And we won't see 'We wants it, we ne . . .' anywhere, since we use `if else`.)
+@[5-6](Try to type 'Smeagol')
+@[7](Make sure the output is similar to mine.)
+@[7](This line printed because the condition is `False`.)
+@[5-8](Likewise,we  won'tsee 'MY PRECIOUS!!!' anywhere, since we use 'if else.)
+
+---
+
 Please help me to improve this slide [on github issues](https://github.com/hafizhme/python-astilbe/issues)
 
 `github.com/hafizhme/python-astilbe`
