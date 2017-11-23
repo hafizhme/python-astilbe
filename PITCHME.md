@@ -63,7 +63,7 @@ Type these following code on your favorite text editor and save as `ifelse.py`.
 
 +++?code=src/ifelse.py&lang=python
 
-[1-6](We just put a few updated on our `if.py` from previous.)
+[1](We just put a few updated on our `if.py` from previous.)
 [5](Put `else:` on it without indentation.)
 [6](Indent this line with a single tab.)
 [3-4](Line 4 belongs to any `True` condition.)
