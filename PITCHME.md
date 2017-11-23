@@ -114,10 +114,10 @@ Type these following code on your favorite text editor and save as `elif.py`.
 @[4-5](Try to type 'Smeagol')
 @[6](Make sure the output is similar to mine.)
 @[6](This line printed because the second condition is `True`.)
-@[4-5](Try to type 'Frodo')
-@[4-6](This case seems do not print any.)
-@[4-6](No condition is `True`.)
-@[4-6](You could give `else:` in the last line to make the remain condition catched.)
+@[7-8](Try to type 'Frodo')
+@[7-9](This case seems do not print any.)
+@[7-9](No condition is `True`.)
+@[7-9](You could give `else:` in the last line to make the remain condition catched.)
 
 ---
 
