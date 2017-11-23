@@ -191,3 +191,5 @@ Yes it is rude, but going arround and peeking to some code is a good source of m
 ---
 
 Please help me to improve this slide [on github issues](https://github.com/hafizhme/python-astilbe/issues)
+
+`github.com/hafizhme/python-astilbe`
