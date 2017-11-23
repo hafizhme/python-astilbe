@@ -174,7 +174,7 @@ Range | Grade
 ---
 
 @[](There are much more magic you don't know about decision making in Python.)
-@[](This slide is not a slide instead intend to make you expert.)
+@[](This slide is not a slide intended to make you expert.)
 @[](Expert learn by doing, by experiencing.)
 
 ---
