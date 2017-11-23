@@ -158,9 +158,6 @@ So, I can assign numerous different value to my variable?
 @[](A mutable object is that you **can assign a new value** in a variable **without creating a new one**.)
 @[](**List** and **dictionary** are mutable data type.)
 
-+++
-
-
 +++?code=src/mutable
 
 @[1](Recall our mutable object, `my_list`.)
@@ -171,14 +168,40 @@ So, I can assign numerous different value to my variable?
 @[9-10](Tadaaa)
 @[3-5,8-10](See the different?)
 @[3-5,8-10](The element is changed.)
-@[3-5,8-10](The address remaind the same.)
+@[3-5,8-10](The address remain the same.)
 
 +++
 
 ### Imutable 
-An imutable object is that you can assign a new value by **creating a new one**.
+@[](An imutable object is that you can assign a new value by **creating a new one**.)
+@[](**Tupple**, **integer**, **float**, **boolean** and **string** are imutable data type.)
 
-**Tupple**, **integer**, **float**, **boolean** and **string** are imutable data type.
++++?code=src/imutable
+
+@[1](Recall our imutable object, `my_var`.)
+@[1](Here we will give the proof.)
+@[2-3](Print its address in hexadecimal.)
+@[4](Make some 'changes'.)
+@[5-6](Tadaaa)
+@[1-3,4-6](See the different?)
+@[1,4](The element is changed.)
+@[3,6](The address is changed too.)
+@[3,6](This is an elementary proof that python creating a new object every **assignment**.)
+@[7](How about our tupple?)
+@[8-9](Print its address in hexadecimal.)
+@[10-13](Make some 'changes' that goes wrong.)
+@[7,14](Let's do a cheap trick.)
+@[15-16](And yes, you got what you want.)
+@[7-9,16-18](See the different?)
+@[9,18](The address is changed.)
+@[19,22](Assignment on a list element.)
+@[19,22](It will show you that every assignment is creating a new object.)
+@[19](Recall our mutable object, `my_list`)
+@[20-21](Print its address in hexadecimal.)
+@[22](Make some 'changes'.)
+@[22](that is now, we know that is **assignment**)
+@[23-24](Tadaaa)
+@[21,24](The address is changed.)
 
 ---
 
