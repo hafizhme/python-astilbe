@@ -1,0 +1,44 @@
+>>> my_var = 3.123
+>>> my_var
+3.123
+>>> my_var = True
+>>> my_var
+True
+>>> my_var = False
+>>> my_var
+False
+>>> my_list = [1, 2, 'oops', True, 2.3]
+>>> my_list
+[1, 2, 'oops', True, 2.3]
+>>> print(my_list)
+[1, 2, 'oops', True, 2.3]
+>>> my_list[0]
+1
+>>> my_list[1] = 'bored'
+>>> my_list
+[1, 'bored', 'oops', True, 2.3]
+>>> my_list[1:4]
+[2, 'oops', True]
+>>> my_list[1:4:2]
+[2, True]
+>>> my_dict = {'name': 'Smeagol', 'age': 17, 'aliases': ['Gollum', 'Slinker', 'Sneak', 'Stinker', 'Trahald']}
+>>> my_dict = {
+...     'name': 'Smeagol',
+...     'age': 17,
+...     'aliases': ['Gollum', 'Slinker', 'Sneak', 'Stinker', 'Trahald'],
+... }
+>>> my_dict
+{'name': 'Smeagol', 'age': 23, 'aliases': ['Gollum', 'Slinker', 'Sneak', 'Stinker', 'Trahald']}
+>>> my_dict['aliases']
+['Gollum', 'Slinker', 'Sneak', 'Stinker', 'Trahald']
+>>> my_dict['aliases'][0]
+'Gollum'
+>>> my_dict[77] = 'Sorry, forgot this one :D'
+>>> my_dict
+{'name': 'Smeagol', 'age': 23, 'aliases': ['Gollum', 'Slinker', 'Sneak', 'Stinker', 'Trahald'], 77: 'Sorry, forgot this one :D'}
+>>> my_list = []
+>>> my_list
+[]
+>>> my_dict = {}
+>>> my_dict
+{}
