@@ -63,7 +63,7 @@ Type these following code on your favorite text editor and save as `ifelse.py`.
 
 +++?code=src/ifelse.py&lang=python
 
-@[1](We just put a few updated on our `if.py` from previous.)
+@[1-6](We just put a few updated on our `if.py` from previous.)
 @[5](Put `else:` on it without indentation.)
 @[6](Indent this line with a single tab.)
 @[3-4](Line 4 belongs to any `True` condition.)
@@ -90,6 +90,34 @@ hafizhme@machine:~/Code/python-astilbe$
 @[7](Make sure the output is similar to mine.)
 @[7](This line printed because the condition is `False`.)
 @[5-8](Likewise,we  won'tsee 'MY PRECIOUS!!!' anywhere, since we use 'if else.)
+
+---
+
+### Elif
+
++++
+
+Type these following code on your favorite text editor and save as `elif.py`.
+
++++code=src/elif.py&lang=python
+
+@[1-6](Again we just put a few updated on our `ifelse.py` from previous.)
+@[5](Replaced by `elif your_name == 'Smeagol':`.)
+@[3-4](Line 4 belongs to any `True` condition for **first condtion**.)
+@[5-6](Line 6 belongs to any `True` condition for **second condition**.)
+
++++code=src/elif-run
+
+@[1-2](Try to type 'Gollum')
+@[3](Make sure the output is similar to mine.)
+@[3](This line printed because the first condition is `True`.)
+@[4-5](Try to type 'Smeagol')
+@[6](Make sure the output is similar to mine.)
+@[6](This line printed because the second condition is `True`.)
+@[4-5](Try to type 'Frodo')
+@[4-6](This case seems do not print any.)
+@[4-6](No condition is `True`.)
+@[4-6](You could give `else:` in the last line to make the remain condition catched.)
 
 ---
 
