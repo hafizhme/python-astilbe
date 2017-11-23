@@ -48,6 +48,8 @@ print('Hello there', sys.argv[1])
 
 . . . absolutely perform just the same I promise. Afterward, we will prefer this way for now.
 
+Maybe you will be using the previous type when you met modular programming. As I said, we will prefer this way for now.
+
 ---
 
 Please help me to improve this slide [on github issues](https://github.com/hafizhme/python-astilbe/issues)
