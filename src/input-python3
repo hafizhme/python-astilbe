@@ -1,0 +1,18 @@
+>>> my_var = input('Your name is ')
+Your name is 
+Your name is Gollum
+>>> 
+>>> my_var
+'Gollum'
+>>> my_var = input()
+
+Gollum
+>>> my_var
+'Gollum'
+>>> my_var = input('How old are you? ')
+How old are you? 
+How old are you? 17
+>>> my_var
+'17'
+>>> type(my_var)
+<class 'str'>
