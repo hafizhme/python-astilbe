@@ -14,9 +14,11 @@ Satria H R Harsono
 
 ### If
 
-+++?code=src/if.py&lang=python
++++
 
-Type above code on your favorite text editor and save as `if.py`.
+Type these following code on your favorite text editor and save as `if.py`.
+
++++?code=src/if.py&lang=python
 
 @[3,4](You have to make sure to indent correctly.)
 @[3,4](You have to watch your indent here!!)
@@ -45,8 +47,11 @@ We wants it, we needs it. Must have the precious. . . .
 
 @[1-2](Try to type 'Gollum')
 @[3-4](Make sure the output is similar to mine.)
+@[3](Thise line printed because the condition is `True`.)
+@[4](Thise line printed because whatever the condition is.)
 @[5-6](Try to type 'Smeagol')
 @[7](Make sure the output is similar to mine.)
+@[6-7]('MY PRECIOUS!!!' is not printed because the condition is `False`.)
 
 ---
 
