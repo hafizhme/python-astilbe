@@ -205,6 +205,56 @@ So, I can assign numerous different value to my variable?
 
 ---
 
+Operator
+
++++
+
+## Arithmetics
+
++++
+
+Because this slide is not meant to be your reference,
+please go to the [official documentation](https://docs.python.org/3/library/operator.html#mapping-operators-to-functions)
+
+---
+
+## Standard input
+in Python 3
+
++++?code=src/input-python3
+
+@[1](Save input to a variable.)
+@[1](Take a look that we put a welcoming on it.)
+@[2](This is our welcoming message.)
+@[3](So, what's your name.)
+@[3](In my case it is 'Gollum')
+@[3](In my case it is 'Gollum')
+@[3](Press `Enter` when you are done.)
+@[4](Nothing?)
+@[5-6](Print `my_var`.)
+@[7](In case you are to shy to put a welcoming message,)
+@[7](just let it be.)
+@[8](Okay, we need to type something on it.)
+@[8](Since the programmer is to shy to type a welcoming message.)
+@[9](We will go with 'Gollum'.)
+@[10-11](Print `my_var`.)
+@[1-6](This is input that takes string.)
+@[6](How to take input as an integer one?)
+@[12-13](Create new one that probably will input as an integer.)
+@[14](I am 17 yo.)
+@[15-16](Print `my_var`)
+@[15-16](It is string gentlemen.)
+@[15-16](But this is not rigid!)
+@[17](Use `type()` instead,)
+@[17](a method to check varible's type)
+@[17-18](Oh my god, I saw `'str'`, is that string!?)
+
++++
+
+Enough for now :D
+
+---
+
 Please help me to improve this slide [on github issues](https://github.com/hafizhme/python-astilbe/issues)
 
 `github.com/hafizhme/python-astilbe`
