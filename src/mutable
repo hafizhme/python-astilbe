@@ -1,4 +1,6 @@
 >>> my_list = [1, 2, 'oops', True, 2.3]
+>>> my_list
+[1, 2, 'oops', True, 2.3]
 >>> hex(id(my_list))
 '0x7f7c6f593c88'
 >>> my_list[1] = 3
