@@ -130,6 +130,7 @@ You don't seem to be newbie, why don't give you a simple task? hmmm.
 +++
 
 Remember this old days when you are asked to create a **grading program** using `pascal`?
+
 Range | Grade
 ---|---
 `[90,100]` | A
@@ -141,6 +142,7 @@ Range | Grade
 `[30,40)` | D
 `[20,30)` | DE
 `[0,20)` | E
+
 You can finish this problem using `elif`, try to use `nested if` instead.
 
 ---
