@@ -2,7 +2,7 @@
 
 ## Astilbe
 
-0-very-basic
+1-very-basic
 
 Satria H R Harsono
 
@@ -18,7 +18,7 @@ Type following code on your favorite text editor and save as `hello.py`
 import sys
 
 def main():
-    print 'Hello there', sys.argv[1]
+    print('Hello there', sys.argv[1])
 
 if __name__ == '__main__':
     main()
@@ -38,7 +38,7 @@ hafizhme@machine:~/Code/python-astilbe$
 
 +++
 
-Do you that was too messy? Try this one . . .
+Do you think that was too messy? Try this one . . .
 
 ```python
 import sys
@@ -46,7 +46,7 @@ import sys
 print('Hello there', sys.argv[1])
 ```
 
-. . . absolutely perform just the same I promise
+. . . absolutely perform just the same I promise. Afterward, we will prefer this way for now.
 
 ---
 
