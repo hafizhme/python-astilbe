@@ -12,7 +12,7 @@ Satria H R Harsono
 
 +++
 
-Type following code on your favorite text editor and save as `hello.py`
+Type following code on your favorite text editor and save as `hello.py`.
 
 ```python
 import sys
@@ -46,7 +46,11 @@ import sys
 print('Hello there', sys.argv[1])
 ```
 
++++
+
 . . . absolutely perform just the same I promise. Afterward, we will prefer this way for now.
+
++++
 
 Maybe you will be using the previous type when you met modular programming. As I said, we will prefer this way for now.
 
@@ -97,7 +101,10 @@ I forgot something
 +++
 
 Congratulations, you just experienced using **dynamically-typed** language.
-It is a language you **don't need to define type** of variable you are using.
+
++++
+
+Dynamically-typed language is (for short) a language you **don't need to define type** of variable you are using.
 
 +++
 
