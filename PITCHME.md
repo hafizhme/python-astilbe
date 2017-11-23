@@ -155,15 +155,15 @@ So, I can assign numerous different value to my variable?
 +++
 
 ### Mutable 
-A mutable object is that you **can assign a new value** in a variable **without creating a new one**.
+(A mutable object is that you **can assign a new value** in a variable **without creating a new one**.)
 
-**List** and **dictionary** are mutable data type.
+(**List** and **dictionary** are mutable data type.)
 
 +++
 
 ### Mutable 
 
-?code=src/mutable
++++?code=src/mutable
 
 @[1](Recall our mutable object, `my_list`.)
 @[2-3](Print its address in hexadecimal.)
