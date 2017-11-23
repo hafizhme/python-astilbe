@@ -90,7 +90,7 @@ I forgot something
 >>> my_var
 'I forgot something'
 ```
-@[1](What you are doing now is assigning an integer value `200` to a variable named `my_var`)
+@[1](What you are doing now is assigning an **integer** value `200` to a variable named `my_var`)
 @[2-3](Then I can print the value of `my_var` using `print()` method)
 @[4-5](As long as you are in Python Shell, printing variable by calling the variable is just fine)
 @[6](You can reuse your previous variable even these are having different data type)
@@ -100,15 +100,15 @@ I forgot something
 
 +++
 
-Congratulations, you just experienced using **dynamically-typed** language.
+Congratulations, you just experienced in using **dynamically-typed** language.
 
 +++
 
-Dynamically-typed language is (for short) a language you **don't need to define type** of variable you are using.
+Dynamically-typed language is (for short) a language you **don't need to define the type** of variable you are using.
 
 +++
 
-So, I can assign numerous different value to my variable?
+So, I can assign numerous different values in to my variable?
 
 ---
 
@@ -116,15 +116,15 @@ So, I can assign numerous different value to my variable?
 
 +++?code=src/still-data-type
 
-@[1](This is number, but got comma on it, \(read: float type\).)
+@[1](This is a number, but got comma on it, \(read: **float**\).)
 @[2-3](Investigate!)
-@[4](Boolean data type)
+@[4](**Boolean** data type)
 @[5-6](Investigate!)
 @[7](False)
 @[8-9](Investigate!)
-@[10](Here it is, a list with multiple value in multiple data type.)
+@[10](Here it is, a **list** with multiple value in a multiple data type.)
 @[11-12](Investigate!)
-@[13-14](Remember you can do the same using `print`, in case you are not in Python Shell.)
+@[13-14](Remember you can do the same using `print()`, in case you are not using Python Shell.)
 @[15-16](Accessing first index of `my_list` that is **zero-based** index.)
 @[17](You can change a value of your list.)
 @[18-19](Try to investigate!)
