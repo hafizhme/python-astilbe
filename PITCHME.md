@@ -155,8 +155,8 @@ So, I can assign numerous different value to my variable?
 +++
 
 ### Mutable 
-@(A mutable object is that you **can assign a new value** in a variable **without creating a new one**.)
-@(**List** and **dictionary** are mutable data type.)
+@[](A mutable object is that you **can assign a new value** in a variable **without creating a new one**.)
+@[](**List** and **dictionary** are mutable data type.)
 
 +++
 
