@@ -128,15 +128,15 @@ So, I can assign numerous different value to my variable?
 @[15-16](Accessing first index of `my_list` that is **zero-based** index.)
 @[17](You can change a value of your list.)
 @[18-19](Try to investigate!)
-@[20-21](Ahah! Try to figuring this one :p)
+@[20-21](Ahah! Try to figure this one :p)
 @[22-23](And this XD)
 @[24](Please introduce, **dictionary**.)
-@[25-29](Are tired coding in a line, try this one.)
-@[30-31](Try to investigate!)
+@[25-29](Are you tired coding in a line? Try this one.)
+@[30-31](Investigate!)
 @[32-33](Access `'aliases'` index)
 @[34-35](ooh, dive more)
 @[36](Create new index and assign new value on to it)
-@[37-38](Try to investigate!)
+@[37-38](Investigate!)
 @[39-44](You can assign empty list or dictionary.)
 @[39-44](But why??)
 @[45](Please introduce, **tupple**.)
@@ -147,6 +147,39 @@ So, I can assign numerous different value to my variable?
 @[54-57](Opps)
 @[54-57](Just like list huh?)
 @[57](Hope you can figured something.)
+
+---
+
+## Type of ~~data type~~ object
+
++++
+
+### Mutable 
+A mutable object is that you **can assign a new value** in a variable **without creating a new one**.
+
+**List** and **dictionary** are mutable data type.
+
++++
+
+### Mutable 
+
+?code=src/mutable
+
+@[1](Recall our mutable object, `my_list`.)
+@[2-3](Print its address in hexadecimal.)
+@[4](Make some changes on an element.)
+@[5-6](Make sure it is worked.)
+@[7-8](Tadaaa)
+@[1-3,6-8](See the different?)
+@[1-3,6-8](The element is changed.)
+@[1-3,6-8](The address remaind the same.)
+
++++
+
+### Imutable 
+An imutable object is that you can assign a new value by **creating a new one**.
+
+**Tupple**, **integer**, **float**, **boolean** and **string** are imutable data type.
 
 ---
 
