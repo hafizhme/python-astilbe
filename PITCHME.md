@@ -112,11 +112,10 @@ So, I can assign numerous different value to my variable?
 
 ---
 
-## Stil Data type
+## Still Data type
 
 +++?code=src/still-data-type
 
-```
 @[1](This is number, but got comma on it, \(read: float type\).)
 @[2-3](Investigate!)
 @[4](Boolean data type)
