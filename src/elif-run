@@ -1,0 +1,9 @@
+hafizhme@dragon:~/Code/python-astilbe$ python3 ifelse.py
+What is your name? Gollum
+MY PRECIOUS!!!
+hafizhme@dragon:~/Code/python-astilbe$ python3 ifelse.py
+What is your name? Smeagol
+We wants it, we needs it. Must have the precious. They stole it from us. Sneaky little hobbitses. Wicked, tricksy, false!
+hafizhme@dragon:~/Code/python-astilbe$ python3 elif.py
+What is your name? Frodo
+hafizhme@dragon:~/Code/python-astilbe$ 
