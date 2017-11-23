@@ -125,6 +125,30 @@ Type these following code on your favorite text editor and save as `elif.py`.
 
 +++
 
+```python
+if condition1:
+  pass
+  if condition 1a:
+    pass
+  elif condition 1b:
+    pass
+  else:
+    pass
+else:
+  pass
+```
+
+@[1-10](These is a sample code of nested if.)
+@[2](`pass` is one of keywords in python.)
+@[2](It enable us to skip a line.)
+@[3-8](These are the nested if.)
+@[2-8](These line use single tab indent.)
+@[4,6,8](These line use double tab indent.)
+@[1-10](Again indentation is critical in python.)
+
+
++++
+
 You don't seem to be newbie, why don't give you a simple task? hmmm.
 
 +++
