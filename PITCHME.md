@@ -52,6 +52,59 @@ Maybe you will be using the previous type when you met modular programming. As I
 
 ---
 
+## Variable
+### &
+## Data Type
+
++++
+
+We will move on to Python Shell, Python Interactive Interpreter, Python Interpreter Console, or whatever you named it is.
+```
+hafizhme@machine:~/Code/python-astilbe$ python
+Python 3.5.2 (default, Sep 14 2017, 22:51:06) 
+[GCC 5.4.0 20160609] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+```
+
+@[1](Type `python` on your console, or `python3` if you install multiple python version on your machine. Because we will be using python3.* now)
+@[2](Make sure you got python 3.* here)
+@[3-4](Ok you can ignore this for now)
+@[5](Here you are, ready to code)
+
++++
+
+```
+>>> my_var = 200
+>>> print(my_var)
+200
+>>> my_var
+200
+>>> my_var = 'I forgot something'
+>>> print(my_var)
+I forgot something
+>>> my_var
+'I forgot something'
+```
+@[1](What you are doing now is assigning an integer value `200` to a variable named `my_var`)
+@[2-3](Then I can print the value of `my_var` using `print()` method)
+@[4-5](As long as you are in Python Shell, printing variable by calling the variable is just fine)
+@[6](You can reuse your previous variable even these are having different data type)
+@[7-8](And this is just fine)
+@[9](Try this too?)
+@[10](Oops. Now you know. `print()` will convert any value to string representation)
+
++++
+
+Congratulations, you just experienced using **dynamically-typed** language.
+It is a language you **don't need to define type** of variable you are using.
+
++++
+
+So, I can assign numerous different value to my variable?
+
+---
+
 Please help me to improve this slide [on github issues](https://github.com/hafizhme/python-astilbe/issues)
 
 `github.com/hafizhme/python-astilbe`
