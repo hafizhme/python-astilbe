@@ -71,8 +71,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 ```
 
-@[1](Type `python` on your console, or `python3` if you install multiple python version on your machine. Because we will be using python3.* now)
-@[2](Make sure you got python 3.* here)
+@[1](Type `python` on your console, or `python3` if you install multiple python version on your machine. Because we will be using python3.\* now)
+@[2](Make sure you got python 3.\* here)
 @[3-4](Ok you can ignore this for now)
 @[5](Here you are, ready to code)
 
