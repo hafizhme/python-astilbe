@@ -173,6 +173,39 @@ Hint:
 ```
 >>> 'Hello' + ' ' + 'Proclub'
 'Hello Proclub'
+>>> int('12')
+12
+```
++++
+
+```
+import sys
+
+nilai  = sys.argv[1]
+
+grade = ''
+
+if nilai >= '80':
+    grade += 'A'
+    if nilai < '90':
+        grade += 'B'
+elif nilai >= 60:
+    grade += 'B'
+    if nilai < 70:
+        grade += 'C'
+elif nilai >= 40:
+    grade += 'C'
+    if nilai < 50:
+        grade += 'D'
+elif nilai >= 20:
+    grade += 'D'
+    if nilai < 30:
+        grade += 'E'
+else:
+    grade += 'E'
+
+print(grade)
+
 ```
 
 ---
