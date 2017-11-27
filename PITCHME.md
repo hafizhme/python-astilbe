@@ -234,7 +234,7 @@ print(grad)
 
 @[](There are much more magic you don't know about decision making in Python.)
 @[](This slide is not a slide intended to make you expert.)
-@[](Expert learn by doing, by experiencing.)
+@[](Expert is learning by doing, by experiencing.)
 
 ---
 
