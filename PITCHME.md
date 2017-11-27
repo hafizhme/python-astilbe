@@ -238,6 +238,10 @@ print(grad)
 
 ---
 
+`hackerrank.com/py-iflab-1`
+
+---
+
 Please help me to improve this slide [on github issues](https://github.com/hafizhme/python-astilbe/issues)
 
 `github.com/hafizhme/python-astilbe`
