@@ -212,7 +212,23 @@ print(grad)
 
 ```
 
-@[1-3](Remember how to use argument?)
+@[1-4](Remember how to use argument?)
+@[1-4](Don't be so hard, I just refresh this term.)
+
+@[6-7](Are you 'Gollum'?)
+
+@[9](Initialize `grad`.)
+@[11-14](Case for `val >= 80`.)
+@[12](Concatenate `grad = ''` by `A`,)
+@[12](therefore `grade = 'A`.)
+@[13-14](Case for `val < 90`.))
+@[14](Concatenate `grad = 'A'` by `B`,)
+@[14](therefore `grade = 'AB`.)
+@[15-18](And soooo ooon)
+@[19-22](And soooo ooon)
+@[23-26](And soooo ooon)
+@[27-28](Make sure you catch all value)
+@[30](Print)
 
 
 ---
