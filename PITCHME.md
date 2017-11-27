@@ -167,7 +167,7 @@ Remember this old days when you are asked to create a **grading program** using 
 `[40,50)` --> CD;
 `[30,40)` --> D;
 `[20,30)` --> DE;
-`[0,20)` --> E;
+`[0,20)` --> E. If his name is 'Gollum', he got +20 bonus.
 
 Hint: 
 ```
@@ -181,32 +181,39 @@ Hint:
 ```
 import sys
 
-nilai  = sys.argv[1]
+val  = int(sys.argv[1])
+name = sys.argv[2]
 
-grade = ''
+if name == 'Gollum':
+    val += 20
 
-if nilai >= '80':
-    grade += 'A'
-    if nilai < '90':
-        grade += 'B'
-elif nilai >= 60:
-    grade += 'B'
-    if nilai < 70:
-        grade += 'C'
-elif nilai >= 40:
-    grade += 'C'
-    if nilai < 50:
-        grade += 'D'
-elif nilai >= 20:
-    grade += 'D'
-    if nilai < 30:
-        grade += 'E'
+grad = ''
+
+if val >= 80:
+    grad += 'A'
+    if val < 90:
+        grad += 'B'
+elif val >= 60:
+    grad += 'B'
+    if val < 70:
+        grad += 'C'
+elif val >= 40:
+    grad += 'C'
+    if val < 50:
+        grad += 'D'
+elif val >= 20:
+    grad += 'D'
+    if val < 30:
+        grad += 'E'
 else:
-    grade += 'E'
+    grad += 'E'
 
-print(grade)
+print(grad)
 
 ```
+
+@[1-3](Remember how to use argument?)
+
 
 ---
 
