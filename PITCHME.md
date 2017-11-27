@@ -181,35 +181,34 @@ Hint:
 ```
 import sys
 
-val  = int(sys.argv[1])
+valu  = int(sys.argv[1])
 name = sys.argv[2]
 
 if name == 'Gollum':
-    val += 20
+    valu += 20
 
 grad = ''
 
-if val >= 80:
+if valu >= 80:
     grad += 'A'
-    if val < 90:
+    if valu < 90:
         grad += 'B'
-elif val >= 60:
+elif valu >= 60:
     grad += 'B'
-    if val < 70:
+    if valu < 70:
         grad += 'C'
-elif val >= 40:
+elif valu >= 40:
     grad += 'C'
-    if val < 50:
+    if valu < 50:
         grad += 'D'
-elif val >= 20:
+elif valu >= 20:
     grad += 'D'
-    if val < 30:
+    if valu < 30:
         grad += 'E'
 else:
     grad += 'E'
 
 print(grad)
-
 ```
 
 @[1-4](Remember how to use argument?)
