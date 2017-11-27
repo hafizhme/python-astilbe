@@ -255,6 +255,68 @@ Enough for now :D
 
 ---
 
+## Example code
+
+For motivation (hope so)
+
++++
+
+```python
+print('Hello world')
+```
+
+`hello_world.py`
+
++++
+
+```python
+n = int(input())
+
+if n % 2 == 0:
+    print('even')
+else:
+    print('odd')
+```
+
+`even_odd.py`
+
++++
+
+```python
+b = int(input())
+n = int(input())
+
+print(b ** n)
+```
+
+`exponentiation.py`
+
++++
+
+```python
+n = int(input())
+
+i = 1
+while (i <= n):
+    print(i)
+    i += 1
+```
+
+`one_two_three_n.py`
+
++++
+
+```python
+def my_name_is(name):
+    print('My name is', name)
+
+my_name_is(input())
+```
+
+`my_name.py`
+
+---
+
 Please help me to improve this slide [on github issues](https://github.com/hafizhme/python-astilbe/issues)
 
 `github.com/hafizhme/python-astilbe`
