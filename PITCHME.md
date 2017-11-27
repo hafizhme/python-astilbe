@@ -205,16 +205,16 @@ So, I can assign numerous different values in to my variable?
 
 ---
 
-Operator
-
-+++
-
-## Arithmetics
+## Operators
 
 +++
 
 Because this slide is not meant to be your reference,
 please go to the [official documentation](https://docs.python.org/3/library/operator.html#mapping-operators-to-functions)
+
++++
+
+![Operator](assets/operator-ss.png)
 
 ---
 
