@@ -8,7 +8,7 @@ Satria H R Harsono
 
 ---
 
-##While
+## While
 
 +++?code=src/while.py&lang=python
 
@@ -21,7 +21,7 @@ Satria H R Harsono
 
 ---
 
-##Whileelse
+## Whileelse
 
 +++?code=src/whileelse.py&lang=python
 
@@ -32,7 +32,7 @@ Satria H R Harsono
 
 ---
 
-##Dowhile
+## Dowhile
 
 +++
 
@@ -52,7 +52,7 @@ Satria H R Harsono
 
 ---
 
-##For
+## For
 
 +++?code=src/for.py&lang=python
 
@@ -67,7 +67,7 @@ Satria H R Harsono
 
 ---
 
-##For
+## For
 
 +++?code=src/forlist.py&lang=python
 
@@ -95,7 +95,7 @@ Do you need to get the index of your iteration?
 
 ---
 
-##Continue
+## Continue
 
 +++?code=src/forcontinue.py&lang=python
 
