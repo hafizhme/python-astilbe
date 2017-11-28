@@ -59,7 +59,7 @@ Satria H R Harsono
 @[](Save as `for.py`)
 @[1-5](Spot any difference!)
 @[1](Try to print `range(10)` in Python Shell,)
-@[1](make it clear by using list casting `list(range(10)).)
+@[1](make it clear by using list casting list(range(10)).)
 @[2-5](The context is like previous code, but we need some changes on it now.)
 @[5-7](Variable `i` incremented by `1` automatically from `range()`.)
 @[1](Try to define starting value by replace `range(10)` with `range(2,10)`.)
