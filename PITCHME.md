@@ -44,8 +44,8 @@ Make sure you understand  thefollowing preliminary materials before continuing t
 @[8-12](What is this?)
 @[8-12](You can do this too.)
 @[13](Create a `10 x 5` matrix consisting all positive even number less or equal then 100 in a single assignment. And without direct assignment.)
-@[14]
-@[15]
+@[14]()
+@[15]()
 
 ---
 
