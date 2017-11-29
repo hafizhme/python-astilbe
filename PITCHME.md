@@ -41,7 +41,27 @@ Create an empty file named `fungsi.py`
 
 ## Modular
 
++++
+
+Create an empty file named `modul.py` in a similiar directory with `fungsi.py`
+
++++
+
+```
+- direktori_kamu
+ |-fungsi.py
+ |-modul.py
+```
+
 +++?code=src/modul.py&lang=python
+
+@[1-3]
+
+@[11-13]
+
+@[21-23]
+
+@[31-33]
 
 ---
 
