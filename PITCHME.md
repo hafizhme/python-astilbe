@@ -65,6 +65,35 @@ Create an empty file named `modul.py` in a similiar directory with `fungsi.py`
 
 ---
 
+## File
+
++++ 
+
+```
+1
+2
+3
+4
+5
+```
+
+Save as `input`
+
++++
+
+Create an empty file named `fil.py`
+
++++?code=src/fil.py&lang=python
+
+@[1,3,5,8]
+@[1-8]
+@[10-14]
+@[16-20]
+@[24-29]
+
+
+---
+
 Please help me to improve this slide [on github issues](https://github.com/hafizhme/python-astilbe/issues)
 
 `github.com/hafizhme/python-astilbe`
