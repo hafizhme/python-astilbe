@@ -12,9 +12,23 @@ Satria H R Harsono
 
 +++?code=src/fungsi.py&lang=python
 
-@[1-3]
+@[1-3](Normal function)
 @[27-29]
+@[5-11](Default, optional value)
+@[31-33]
+@[52-54]
 
+@[13-15](Koleksi)
+@[43-45]
+
+@[17-19](Mutable vs Imutable)
+@[47-50]
+
+@[21-22](`*args`)
+@[56-57]
+
+@[24-25](`**kwargs`)
+@[59-60]
 
 ---
 
