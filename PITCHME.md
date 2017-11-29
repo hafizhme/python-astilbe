@@ -89,8 +89,24 @@ Create an empty file named `fil.py`
 @[1-8]
 @[10-14]
 @[16-20]
-@[24-29]
 
+---
+
+## JSON
+
++++
+
+Save as `input_json`
+
+```
+{"name": "Smeagol", "age": 23, "aliases": ["gollum","slinker","sneak","stinker","trahald"]}
+
+```
+
++++
+Create an empty file named `fil.py`
+
++++?code=src/json.py&lang=python
 
 ---
 
