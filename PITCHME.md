@@ -12,7 +12,8 @@ Satria H R Harsono
 
 +++?code=src/fungsi.py&lang=python
 
-@[1-3, 27-29]
+@[1-3]
+@[27-29]
 
 
 ---
