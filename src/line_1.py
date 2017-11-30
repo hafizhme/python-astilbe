@@ -5,6 +5,6 @@ data_a= {
     'y': (1, 2, 3),
 }
 
-plt.plot(points['x'], points['y'], label='data a')
+plt.plot(data['x'], data['y'], label='data a')
 
 plt.show()
