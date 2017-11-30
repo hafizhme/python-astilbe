@@ -1,16 +1,16 @@
 import matplotlib.pyplot as plt
 
-points_a= {
+data_a= {
     'x': (1, 2, 3),
     'y': (1, 2, 3),
 }
 
-points_b= {
+data_b= {
     'x': (1, 2, 3),
     'y': (3, 4, 5),
 }
 
-plt.plot(points['x'], points['y'], label='line a')
-plt.plot(points['x'], points['y'], label='line b')
+plt.plot(data['x'], data['y'], label='data a')
+plt.plot(data['x'], data['y'], label='data b')
 
 plt.show()
